@@ -2,7 +2,12 @@
   "name": "herokuapp",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.14.13",
+    "node": "12.21.0"
+  },
   "dependencies": {
+    "@babel/preset-env": "^7.14.9",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.15",
