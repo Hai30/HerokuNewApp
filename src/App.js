@@ -149,7 +149,7 @@ function App() {
         <footer>
           <p className=''>Weather Application made with React and AccuWeather API.</p>
              <i class="fab fa-github"></i>
-          <p>Code available on <a href='https://github.com/Hai30/HerokuNewApp' target='_blank' rel='noopener noreferrer'>GitHub</a></p>
+          <p>Code available on <a href='https://Hai30.github.io/Hai30-herokuweather' target='_blank' rel='noopener noreferrer'>GitHub</a></p>
        
         </footer>
     </React.Fragment>;
