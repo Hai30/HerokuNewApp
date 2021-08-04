@@ -101,7 +101,7 @@ function App() {
           <Navbar.Brand className='mr-n4'>
             <Navbar.Brand>
                 <Nav.Link>
-                  <Logo>Networker</Logo>
+                  <Logo>Herolo Weather App</Logo>
                 </Nav.Link>
             </Navbar.Brand>
           </Navbar.Brand>
